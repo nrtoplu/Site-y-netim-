@@ -1,0 +1,6 @@
+{
+  "name": "ApsisCloud - Modern Site ve Apartman Yönetim Sistemi",
+  "description": "Aidat takibi, gider yönetimi, online ödeme altyapısı, sakinler arası iletişim, arıza-bakım talep sistemi, şeffaf bütçe raporlama ve dijital arşivleme platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
